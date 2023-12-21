@@ -2,7 +2,7 @@
 
 This repo is a short guide to learning `git`. Check the [installation](#installation) section before proceeding further.
 
-## Objectives
+## Objectives!
 
 The objectives are the things we want to learn with this project:
 
@@ -11,9 +11,11 @@ The objectives are the things we want to learn with this project:
    1. origin
    1. local
 1. Repository operations
+   1. `log` to check the history
+   1. `status` to check modifications
    1. Modify an existing file and
-      1. "saving" the changes (`add`)
-      1. "persisting" the changes (`commit`)
+      1. `add` to the staging area
+      1. `commit` to add another history point
    1. Add a new file and ...
    1. "Send" the changes to the origin (`push`)
    1. "Check" if something has changed in the origin (`fetch`)
